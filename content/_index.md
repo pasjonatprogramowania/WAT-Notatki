@@ -3,4 +3,4 @@ title: 🪴 Quartz 3.
 enableToc: false
 ---
 
-Hellloo [callouts](notes/callouts.md)
+Hellloo [private-note](private/private-note.md)
